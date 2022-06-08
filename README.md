@@ -2,7 +2,7 @@
 
 
 - 🔭 looking for a dear company...
-- 🌱 I'm currently learning: Back-end, more infos _[check the course repository ](https://github.com/victor-jardes/trybe/tree/alfa)_ for more technologies
+- 🌱 I'm currently learning: Back-end, more infos _[check the course repository ](https://github.com/victor-jardes/trybe)_ for more technologies
 - 👯 looking to collaborate on back-end projects
 - 💬 Ask me about React.js, javaScript, back-end tools or games 😃
 - 📫 How to reach me: victor_maanoel@outlook.com, no phone at the moment 😕
