@@ -6,13 +6,10 @@
 - 💬 Ask me about React.js, javaScript, back-end tools or games 😃
 - 📫 How to reach me: victor_maanoel@outlook.com, no phone at the moment 😕
 
-<div>
+<div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-jardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jardes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<hr>
-
- ![Snake animation](https://github.com/victor-jardes/victor-jardes/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 ### Front-end stacks
@@ -41,6 +38,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+<hr>
+
+   ![Snake animation](https://github.com/victor-jardes/victor-jardes/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 <div align="center">
