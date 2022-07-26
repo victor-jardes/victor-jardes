@@ -6,7 +6,7 @@
 - 💬 Ask me about React.js, javaScript, back-end tools or games 😃
 - 📫 How to reach me: victor_maanoel@outlook.com, no phone at the moment 😕
 
-<div align="center">
+<div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-jardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jardes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
