@@ -10,20 +10,14 @@
    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=victor-jardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jardes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<hr>
 
-### Front-end stacks
-<div align="left">
+<h1 align="center">Stacks</h1>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="56" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="56" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="56" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="56" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="56" alt="jest logo"  />
-</div>
-<hr>
-
-### Back-end stacks
-<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="56" alt="jest logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="56" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="56" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="56" alt="docker logo"  />
@@ -42,8 +36,3 @@
 
    ![Snake animation](https://github.com/victor-jardes/victor-jardes/blob/output/github-contribution-grid-snake.svg)
 <hr>
-
-<div align="center">
-  <p>visitors</p>
-  <img src="https://profile-counter.glitch.me/victor-jardes/count.svg?"  />
-</div>
